@@ -1,48 +1,70 @@
-# Pamela Forner da Silva
+<div align="center">
 
-## AI & Digital Solutions Portfolio
+# Hi, I'm Pamela 👋
 
-I am an Accounting student based in Austria with strong experience in data analysis, process optimization, and digital transformation.
+### Analytical Professional · Digital Solutions Builder · AI Enthusiast
 
-I develop AI-powered and automation solutions focused on improving business efficiency.
+📍 Austria &nbsp;|&nbsp; 🎓 Accounting Student &nbsp;|&nbsp; 💼 15+ years in Operations & Finance
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pamela-forner)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
 
-## 🔹 Projects
-
-### 1. AI-Driven Onboarding Platform
-- End-to-end onboarding system with document upload, training, and workflow tracking  
-- Solved delays and lack of visibility in onboarding processes  
-- Result: faster onboarding and improved communication  
+</div>
 
 ---
 
-### 2. Financial & Accounting Platform
-- Integrated system for financial data, cash flow, and real-time reporting  
-- Improved organization and accuracy of financial processes  
-- Enabled better decision-making through data insights  
+## 👩‍💻 About Me
+
+I'm an Accounting student based in Austria with **15+ years of experience** in operations, finance, and process optimization.
+
+I bridge the gap between **business needs and digital solutions** — transforming manual, inefficient processes into streamlined, data-driven workflows using AI and automation tools.
+
+Currently expanding my skills in **Python, AI agents, and Microsoft Copilot** to support digital transformation initiatives.
 
 ---
 
-### 3. Medical Workflow Platform
-- Platform for doctors to manage reports and surgical procedures  
-- Automated recurring reporting tasks  
-- Increased efficiency and centralized information  
+## 🚀 Featured Projects
+
+### 🔹 [AI-Driven Onboarding Platform](https://github.com/pam11235813/onboarding-platform)
+> End-to-end digital onboarding system with document upload, SQL database, training modules and process tracking.
+
+**Problem solved:** Delays, lack of visibility, and communication gaps in onboarding processes.  
+**Result:** Faster onboarding, full process transparency, and zero information loss.
+
+`Lovable` `SQL` `Workflow Automation` `AI`
 
 ---
 
-## 🔹 Skills
+### 🔹 [Financial & Accounting Platform](https://github.com/pam11235813/financial-accounting-platform)
+> Integrated system for bank statement entries, cash flow management and real-time accounting reports.
 
-- Data Analysis (Excel, Power BI)
-- Process Automation
-- AI Tools (ChatGPT, Copilot)
-- SQL Databases
-- Python (basic – learning)
+**Problem solved:** Disorganised financial processes and slow, error-prone manual reporting.  
+**Result:** Real-time financial visibility and significantly improved decision-making.
+
+`Lovable` `SQL` `Power BI` `Data Analysis`
 
 ---
 
-## 🔹 Focus
+### 🔹 [Medical Workflow Platform](https://github.com/pam11235813/medical-workflow-platform)
+> Platform for healthcare professionals to record shifts, procedures and generate recurring reports automatically.
 
-- Digital Transformation
-- AI Enablement
-- Process Optimization
+**Problem solved:** Manual, repetitive reporting for doctors and surgical teams.  
+**Result:** Centralised information, automated documentation, and reduced administrative workload.
+
+`Lovable` `SQL` `Process Automation`
+
+---
+
+## 🛠️ Skills & Tools
+
+| Category | Tools |
+|---|---|
+| **Data & Reporting** | Excel (Advanced + VBA), Power BI, Google Sheets |
+| **AI & Automation** | ChatGPT, Microsoft Copilot, Lovable (AI-powered apps) |
+| **Database** | SQL (integrated in projects) |
+| **Development** | Python (learning), JavaScript (basic) |
+| **Languages** | 🇧🇷 Portuguese (native) · 🇬🇧 English (fluent) · 🇩🇪 German (B1) |
+
+---
+
+## 📊 Focus Areas
