@@ -68,3 +68,17 @@ Currently expanding my skills in **Python, AI agents, and Microsoft Copilot** to
 ---
 
 ## 📊 Focus Areas
+
+✅ Digital Transformation
+✅ AI Enablement & Proof of Concepts
+✅ Process Automation
+✅ Data Analysis & Reporting
+✅ Bridging Business & Technology
+
+---
+
+<div align="center">
+
+*"I don't just use technology — I use it to solve real problems."*
+
+</div>
